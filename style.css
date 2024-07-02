@@ -67,6 +67,15 @@ div.section {
 	color: #0000cc;
 }
 
+div.Section2 {
+    padding: 20px;
+    margin: 20px auto;
+   background-color: rgba(0, 0, 0, 0.356);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+}
+
 /* This alters the appearance of the div with id="signup". */
 #poem {
 	height: 110px;
